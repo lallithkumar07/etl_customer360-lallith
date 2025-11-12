@@ -1,0 +1,9 @@
+transaction_id|user_uuid|amount|status
+TX-4001|e4f5d3a1-8b0c-47e2-a1f3-d9c4e0b5a6f7|145.50|Completed
+TX-4002|d2c3b4a5-6e7f-48d9-a2e1-c0b9d8a7e6f5|32.99|Completed
+TX-4003|f8e9d0c1-2b3a-4e5f-b6c7-d8e9f0a1b2c3|-10.00|Refunded
+TX-4004|99999999-9999-9999-9999-999999999999|500.00|Completed
+TX-4005|a0b1c2d3-4e5f-6a7b-8c9d-e0f1a2b3c4d5|201.15|Completed
+TX-4006|87654321-abcd-1234-dcba-1234567890ab|-5.00|Cancelled
+TX-4007|f8e9d0c1-2b3a-4e5f-b6c7-d8e9f0a1b2c3|99.90|Completed
+TX-4008|11111111-2222-3333-4444-555555555555|25.00|Pending
